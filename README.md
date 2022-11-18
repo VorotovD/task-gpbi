@@ -1,5 +1,5 @@
 # task-gpbi
-Список продуктов
+Список продуктов.
 Сделать сервис с использованием Spring Boot, Postgresql.
 
 Использование MongoDb вместо Postgresql и/или Swagger будет преимуществом.
